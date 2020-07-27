@@ -27,9 +27,15 @@
     <ClInclude Include="ShellShockLiveOverlay.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Paint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ShellShockLiveOverlay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Paint.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
